@@ -75,7 +75,10 @@ Print training logs
 
 Output MSE and MAE results
 
-📈 Results
+---
+
+## 📈 Results
+
 Training produces metrics similar to:
 
 MSE: (varies by training)
