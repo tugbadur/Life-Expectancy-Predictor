@@ -65,24 +65,26 @@ pip install -r requirements.txt
 Run training:
 
 python src/train.py
-The script will:
+```
 
-Load and preprocess data
+2. Run The script will: 
 
-Train the neural network
+Load and preprocess data 
 
-Print training logs
+Train the neural network 
 
-Output MSE and MAE results
+Print training logs 
 
----
+Output MSE and MAE results 
 
-## 📈 Results
+--- 
 
-Training produces metrics similar to:
+## 📈 Results 
 
-MSE: (varies by training)
+Training produces metrics similar to: 
 
-MAE: (varies by training)
+MSE: (varies by training) 
+
+MAE: (varies by training) 
 
 Results may differ due to randomness in weight initialization and train/test splitting.
