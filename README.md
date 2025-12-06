@@ -7,6 +7,7 @@ The dataset includes health, economic, and demographic indicators for multiple c
 
 ## 📌 Project Structure
 
+```plaintext
 life-expectancy-predictor/
 │
 ├── data/
@@ -17,6 +18,7 @@ life-expectancy-predictor/
 │
 ├── requirements.txt
 └── README.md
+```
 
 ---
 
