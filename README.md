@@ -18,9 +18,6 @@ life-expectancy-predictor/
 ├── requirements.txt
 └── README.md
 
-yaml
-Kodu kopyala
-
 ---
 
 ## 🚀 Features
