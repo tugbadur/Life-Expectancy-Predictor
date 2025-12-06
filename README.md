@@ -62,12 +62,15 @@ The dataset used is `life_expectancy.csv`, which should contain:
 
 ```bash
 pip install -r requirements.txt
-Run training:
+```
 
+2. Run Training:
+
+```bash
 python src/train.py
 ```
 
-2. Run The script will: 
+3. The script will: 
 
 Load and preprocess data 
 
