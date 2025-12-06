@@ -64,8 +64,6 @@ The dataset used is `life_expectancy.csv`, which should contain:
 pip install -r requirements.txt
 Run training:
 
-bash
-Kodu kopyala
 python src/train.py
 The script will:
 
